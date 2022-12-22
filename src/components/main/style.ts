@@ -5,11 +5,11 @@ export const Container = styled.main`
 `
 export const Content = styled.section`
   width: 100%;
-  height: 100%;
+  height: 8rem;
   display: flex;
-  align-items: center;
   justify-content: center;
+  flex-direction: column;
   background: #FFFFFF;
   box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
-  margin: 10rem;
+  margin: 5rem;
 `

@@ -1,4 +1,5 @@
 
+import { ProductsContextProvider } from "./contexts"
 import Routes from "./routes/routes"
 import { GlobalStyle } from "./style/gobal"
 
@@ -7,8 +8,10 @@ function App() {
 
   return (
     <>
-      <GlobalStyle />
-      <Routes/>
+      <ProductsContextProvider>
+        <GlobalStyle />
+        <Routes />
+      </ProductsContextProvider>
     </>
   )
 }

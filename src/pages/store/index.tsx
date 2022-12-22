@@ -5,7 +5,7 @@ import Navbar from "../../components/navbar";
 export default function Store() {
   return (
     <Main>
-      <p>aqui vai ficar um store</p>
+
     </Main>
   )
 }

@@ -1,0 +1,1402 @@
+{
+  "existePaginaAnterior": false,
+  "existePaginaPosterior": true,
+  "paginaAtual": 1,
+  "totalPaginas": 22,
+  "totalRegistros": 439,
+  "count": 20,
+  "data": [
+    {
+      "id": "c122b859-b0c9-4594-a775-010889a0c11c",
+      "ativo": false,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "299",
+      "descricao": "Tela Moto G6 | Rosa",
+      "url": "Tela-Moto-G6-Rosa",
+      "estoqueTotal": 0,
+      "precoUnitario": 145.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Moto G6\n\nCARACTERÍSTICAS:\nTamanho: 5.7 polegadas\nDisplay: IPS LCD\nCores: Preto e Dourado\n\nCOMPATIBILIDADE:\nMoto G6\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0299",
+      "statusCadastro": 1,
+      "tipoProduto": 1,
+      "produtoPaiId": "9d367c6d-6925-436f-a33c-f9d36979a731",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [
+        {
+          "id": "6c764dc3-b9bc-4daa-bea3-d99a27ae7b64",
+          "descricao": "UN",
+          "quantidade": 1.000,
+          "desconto": 0.000,
+          "produtoId": "c122b859-b0c9-4594-a775-010889a0c11c"
+        }
+      ],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "f2b79591-9e62-4ee9-89fb-d6aa472aaf1c",
+        "nome": "Motorola",
+        "ativo": true,
+        "codigoExterno": "5",
+        "url": "motorola"
+      },
+      "modelo": {
+        "id": "eeb0f649-9eee-4b91-9bbb-6670a23df865",
+        "nome": "Moto G6",
+        "ativo": true,
+        "codigoExterno": "83"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:17.162623",
+      "impostos": []
+    },
+    {
+      "id": "7d9cccfc-04da-48d5-8581-0153a6681580",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "296",
+      "descricao": "Tela Xiaomi Redmi 5a | Dourado",
+      "url": "string",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 110.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Redmi 5A\n\nCARACTERÍSTICAS:\nTamanho: 5 polegadas\nDisplay: IPS LCD\nCores: Preto \n\nCOMPATIBILIDADE:\nRedmi 5A\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0296",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "e80d2275-090c-41ca-97bc-3165cf01a8de",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "843827ae-a257-475e-adb1-6b308d0cb56b",
+        "nome": "Xiaomi",
+        "ativo": true,
+        "codigoExterno": "2",
+        "url": "xiaomi"
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "qtdeMinPromocao": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:16.7399987",
+      "impostos": []
+    },
+    {
+      "id": "a0817de0-798a-4cd6-8fc1-017b0589d550",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "292",
+      "descricao": "Tela Xiaomi Redmi Note 4x | Roxo",
+      "url": "tela-xiaomi-redmi-note-4x-roxo",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 140.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Redmi Note 4X\n\nCARACTERÍSTICAS:\nTamanho: 5.5 polegadas\nDisplay: IPS LCD\nCores: Preto \n\nCOMPATIBILIDADE:\nRedmi Note 4X\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0292",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "7fdb3094-e6b2-452f-ac6c-061b6f0a429a",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [
+        {
+          "id": "06fb2664-6d7a-4be0-8501-eb1b98be3ac3",
+          "descricao": "123",
+          "quantidade": 0.000,
+          "desconto": 0.000,
+          "produtoId": "a0817de0-798a-4cd6-8fc1-017b0589d550"
+        },
+        {
+          "id": "c58a6ef8-0edf-4cc7-8179-503937164849",
+          "descricao": "as",
+          "quantidade": 0.010,
+          "desconto": 0.010,
+          "produtoId": "a0817de0-798a-4cd6-8fc1-017b0589d550"
+        },
+        {
+          "id": "b909b871-8efb-4e20-9ecc-77f6c2d3bc92",
+          "descricao": "1a",
+          "quantidade": 0.010,
+          "desconto": 0.010,
+          "produtoId": "a0817de0-798a-4cd6-8fc1-017b0589d550"
+        },
+        {
+          "id": "e0919a7d-34cd-4943-92cb-852f68da11ff",
+          "descricao": "CATEGORIA",
+          "quantidade": 0.010,
+          "desconto": 0.010,
+          "produtoId": "a0817de0-798a-4cd6-8fc1-017b0589d550"
+        },
+        {
+          "id": "aff31b5e-3dc7-4477-b5db-9117224a29e4",
+          "descricao": "xxxxxxxx",
+          "quantidade": 0.010,
+          "desconto": 0.010,
+          "produtoId": "a0817de0-798a-4cd6-8fc1-017b0589d550"
+        },
+        {
+          "id": "2075bc63-51a5-4796-989e-97b2f1a28e8b",
+          "descricao": "teste",
+          "quantidade": 0.010,
+          "desconto": 0.010,
+          "produtoId": "a0817de0-798a-4cd6-8fc1-017b0589d550"
+        },
+        {
+          "id": "17cc9d7f-f316-4c01-a91e-b5283dd14a4e",
+          "descricao": "testexx",
+          "quantidade": 0.010,
+          "desconto": 0.010,
+          "produtoId": "a0817de0-798a-4cd6-8fc1-017b0589d550"
+        },
+        {
+          "id": "83a8d093-0259-4abe-9ab4-c7d92c5cab68",
+          "descricao": "testex",
+          "quantidade": 0.010,
+          "desconto": 0.010,
+          "produtoId": "a0817de0-798a-4cd6-8fc1-017b0589d550"
+        },
+        {
+          "id": "2fc22055-4bd2-448a-8179-f07bfee30593",
+          "descricao": "1s",
+          "quantidade": 0.010,
+          "desconto": 0.010,
+          "produtoId": "a0817de0-798a-4cd6-8fc1-017b0589d550"
+        },
+        {
+          "id": "5a4044e4-d688-4728-a6f7-f2ed76efc7b1",
+          "descricao": "ax",
+          "quantidade": 0.010,
+          "desconto": 0.010,
+          "produtoId": "a0817de0-798a-4cd6-8fc1-017b0589d550"
+        },
+        {
+          "id": "649f5363-7b5a-46c6-be7b-8fd3b0d8c1ce",
+          "descricao": "aa1",
+          "quantidade": 1.230,
+          "desconto": 0.010,
+          "produtoId": "a0817de0-798a-4cd6-8fc1-017b0589d550"
+        }
+      ],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "843827ae-a257-475e-adb1-6b308d0cb56b",
+        "nome": "Xiaomi",
+        "ativo": true,
+        "codigoExterno": "2",
+        "url": "xiaomi"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:16.3981877",
+      "impostos": []
+    },
+    {
+      "id": "5be794fd-879e-4828-97d0-023620b9ad8d",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "278",
+      "descricao": "Tela Samsung Galaxy J7 / J7 Neo Original China | Bege",
+      "url": "tela-samsung-galaxy-j7--j7-neo-original-china-bege",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 200.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Galaxy J7\n\nCARACTERÍSTICAS:\nTamanho: 5.5 polegadas\nDisplay: Oled\nCores: Preto, Branco e Dourado\n\nCOMPATIBILIDADE:\nGalaxy J7\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0278",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "8c679211-9f16-4e0a-a210-244c96baa546",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "c3592a56-554a-44d6-ad4c-06d44c6e1c5f",
+        "nome": "Samsung",
+        "ativo": true,
+        "codigoExterno": "3",
+        "url": "samsung",
+        "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Marcas-c3592a56-554a-44d6-ad4c-06d44c6e1c5f-Samsung.jpg"
+      },
+      "modelo": {
+        "id": "c91d8bcd-992f-45b8-a808-da6992121631",
+        "nome": "Galaxy J7",
+        "ativo": true,
+        "codigoExterno": "48"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:15.9283185",
+      "impostos": []
+    },
+    {
+      "id": "4e1ea41c-a2f2-4858-a591-037366143d29",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "263",
+      "descricao": "Touch Samsung Galaxy G530 / 531 | Bege",
+      "url": "touch-samsung-galaxy-g530-/-531-bege",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 20.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Touch Galaxy G530 e G531\n\nCARACTERÍSTICAS:\nTamanho: 5 polegadas\nCores: Preto,Branco e Dourado\n\nCOMPATIBILIDADE:\nGalaxy G530 e G531\n\nFUNCIONALIDADE:\nRestabelece o toque na tela do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0263",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "be48d7b6-bdeb-4247-9cb2-b67b4a8a141b",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "b98b7b09-f7e4-4005-970e-87e998085697",
+        "nome": "Touch",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "81",
+        "url": "pecas/touch",
+        "alias": "Peças | TOUCH"
+      },
+      "marca": {
+        "id": "c3592a56-554a-44d6-ad4c-06d44c6e1c5f",
+        "nome": "Samsung",
+        "ativo": true,
+        "codigoExterno": "3",
+        "url": "samsung",
+        "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Marcas-c3592a56-554a-44d6-ad4c-06d44c6e1c5f-Samsung.jpg"
+      },
+      "modelo": {
+        "id": "f4eb0405-c08c-4892-8735-0fb59896dfea",
+        "nome": "Galaxy Gran Prime",
+        "ativo": true,
+        "codigoExterno": "59"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:15.5119042",
+      "impostos": []
+    },
+    {
+      "id": "39a3d51e-2902-401f-8d0f-039af0565405",
+      "ativo": false,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "284",
+      "descricao": "Tela Samsung Galaxy J7 Metal Original China | Amarelo",
+      "url": "Tela-Samsung-Galaxy-J7-Metal-Original-China-Amarelo",
+      "estoqueTotal": 0,
+      "precoUnitario": 210.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Galaxy J7 Metal\n\nCARACTERÍSTICAS:\nTamanho: 5.5 polegadas\nDisplay: Oled\nCores: Preto, Branco e Dourado\n\nCOMPATIBILIDADE:\nGalaxy J7 Metal\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0284",
+      "statusCadastro": 1,
+      "tipoProduto": 1,
+      "produtoPaiId": "a7a82d2a-c3b3-4b47-868a-3151c2fe08d8",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "c3592a56-554a-44d6-ad4c-06d44c6e1c5f",
+        "nome": "Samsung",
+        "ativo": true,
+        "codigoExterno": "3",
+        "url": "samsung",
+        "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Marcas-c3592a56-554a-44d6-ad4c-06d44c6e1c5f-Samsung.jpg"
+      },
+      "modelo": {
+        "id": "ecc4b80e-17dc-4c99-afce-e005a57908fd",
+        "nome": "Galaxy J7 Metal",
+        "ativo": true,
+        "codigoExterno": "203"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:16.1812246",
+      "impostos": []
+    },
+    {
+      "id": "cdc3235f-052c-4d76-a7da-03ff76b686f1",
+      "ativo": false,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "263",
+      "descricao": "Touch Samsung Galaxy G530 / 531 | Azul",
+      "url": "Touch-Samsung-Galaxy-G530-/-531-Azul",
+      "estoqueTotal": 0,
+      "precoUnitario": 20.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Touch Galaxy G530 e G531\n\nCARACTERÍSTICAS:\nTamanho: 5 polegadas\nCores: Preto,Branco e Dourado\n\nCOMPATIBILIDADE:\nGalaxy G530 e G531\n\nFUNCIONALIDADE:\nRestabelece o toque na tela do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0263",
+      "statusCadastro": 1,
+      "tipoProduto": 1,
+      "produtoPaiId": "be48d7b6-bdeb-4247-9cb2-b67b4a8a141b",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "b98b7b09-f7e4-4005-970e-87e998085697",
+        "nome": "Touch",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "81",
+        "url": "pecas/touch",
+        "alias": "Peças | TOUCH"
+      },
+      "marca": {
+        "id": "c3592a56-554a-44d6-ad4c-06d44c6e1c5f",
+        "nome": "Samsung",
+        "ativo": true,
+        "codigoExterno": "3",
+        "url": "samsung",
+        "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Marcas-c3592a56-554a-44d6-ad4c-06d44c6e1c5f-Samsung.jpg"
+      },
+      "modelo": {
+        "id": "f4eb0405-c08c-4892-8735-0fb59896dfea",
+        "nome": "Galaxy Gran Prime",
+        "ativo": true,
+        "codigoExterno": "59"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:15.5115853",
+      "impostos": []
+    },
+    {
+      "id": "0341a5ae-4e67-417f-8c7c-0465f4621264",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "261",
+      "descricao": "Tela Samsung Galaxy J2 Pro Incell | Dourado",
+      "url": "tela-samsung-galaxy-j2-pro-incell-dourado",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 130.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Galaxy J2 Pro\n\nCARACTERÍSTICAS:\nTamanho: 5 polegadas\nDisplay: Incell\nCores: Preto, Dourado e Rose\n\nCOMPATIBILIDADE:\nGalaxy J2 Pro\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0261",
+      "statusCadastro": 2,
+      "tipoProduto": 0,
+      "produtoPaiId": "d6b8fb28-de01-4a02-a80d-a3e33cf81f61",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [
+        {
+          "id": "e18e4c44-33c1-4bb2-9dba-16f595d03692",
+          "nome": "DOURADO",
+          "padrao": false,
+          "produtoId": "0341a5ae-4e67-417f-8c7c-0465f4621264",
+          "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Produtos-e18e4c44-33c1-4bb2-9dba-16f595d03692-DOURADO.jpg"
+        },
+        {
+          "id": "7435a3dd-330d-41f8-a367-a0fdc3b33546",
+          "nome": "DOURADO",
+          "padrao": true,
+          "produtoId": "0341a5ae-4e67-417f-8c7c-0465f4621264",
+          "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Produtos-7435a3dd-330d-41f8-a367-a0fdc3b33546-DOURADO.jpg"
+        }
+      ],
+      "imagemPadrao": {
+        "id": "7435a3dd-330d-41f8-a367-a0fdc3b33546",
+        "nome": "DOURADO",
+        "padrao": true,
+        "produtoId": "0341a5ae-4e67-417f-8c7c-0465f4621264",
+        "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Produtos-7435a3dd-330d-41f8-a367-a0fdc3b33546-DOURADO.jpg"
+      },
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "c3592a56-554a-44d6-ad4c-06d44c6e1c5f",
+        "nome": "Samsung",
+        "ativo": true,
+        "codigoExterno": "3",
+        "url": "samsung",
+        "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Marcas-c3592a56-554a-44d6-ad4c-06d44c6e1c5f-Samsung.jpg"
+      },
+      "modelo": {
+        "id": "186f5016-ade2-4eb2-a63b-f5bbba9d338c",
+        "nome": "Galaxy J2 Pro",
+        "ativo": true,
+        "codigoExterno": "188"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:15.4029249",
+      "impostos": []
+    },
+    {
+      "id": "bf3a0f88-a91e-4950-9f43-06bee264c3a4",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "300",
+      "descricao": "Tela Moto G6 Play / Moto E5 Incell | Azul",
+      "url": "tela-moto-g6-play-/-moto-e5-incell-azul",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 140.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Moto G6 Play\n\nCARACTERÍSTICAS:\nTamanho: 5.7 polegadas\nDisplay: IPS LCD\nCores: Preto e Dourado\n\nCOMPATIBILIDADE:\nMoto G6 Play\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0300",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "fee5238e-5cc7-415d-9bc9-3b2325a934bc",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "f2b79591-9e62-4ee9-89fb-d6aa472aaf1c",
+        "nome": "Motorola",
+        "ativo": true,
+        "codigoExterno": "5",
+        "url": "motorola"
+      },
+      "modelo": {
+        "id": "0941f16f-31e2-43a4-a2ff-eb54a6b3b477",
+        "nome": "Moto G6 Play",
+        "ativo": true,
+        "codigoExterno": "85"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:17.3124067",
+      "impostos": []
+    },
+    {
+      "id": "41a6ee3e-74ca-451c-b82c-06ed48735235",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "271",
+      "descricao": "Tela Samsung Galaxy J5 Metal Original China | Bege",
+      "url": "tela-samsung-galaxy-j5-metal-original-china-bege",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 210.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Galaxy J5 Metal\n\nCARACTERÍSTICAS:\nTamanho: 5.2 polegadas\nDisplay: Oled\nCores: Preto, Branco e Dourado\n\nCOMPATIBILIDADE:\nGalaxy J5 Metal\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0271",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "12ab9d8e-7823-4a14-99b3-766f1107db0c",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "c3592a56-554a-44d6-ad4c-06d44c6e1c5f",
+        "nome": "Samsung",
+        "ativo": true,
+        "codigoExterno": "3",
+        "url": "samsung",
+        "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Marcas-c3592a56-554a-44d6-ad4c-06d44c6e1c5f-Samsung.jpg"
+      },
+      "modelo": {
+        "id": "b91ef185-2176-44a4-af36-579c084b5cf0",
+        "nome": "Galaxy J5 Metal",
+        "ativo": true,
+        "codigoExterno": "45"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:15.7517461",
+      "impostos": []
+    },
+    {
+      "id": "c4dfba6b-7d1c-41c4-9415-076c541f14ad",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "280",
+      "descricao": "Tela Samsung Galaxy J7 Prime Incell | Amarelo",
+      "url": "tela-samsung-galaxy-j7-prime-incell-amarelo",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 140.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Galaxy J7 Prime\n\nCARACTERÍSTICAS:\nTamanho: 5.5 polegadas\nDisplay: Incell\nCores: Preto e Branco\n\nCOMPATIBILIDADE:\nGalaxy J7 Prime\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "02800280",
+      "codigoExterno": "",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "b17ce31d-8434-4d31-a131-4d43f09ef14b",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "c3592a56-554a-44d6-ad4c-06d44c6e1c5f",
+        "nome": "Samsung",
+        "ativo": true,
+        "codigoExterno": "3",
+        "url": "samsung",
+        "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Marcas-c3592a56-554a-44d6-ad4c-06d44c6e1c5f-Samsung.jpg"
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "qtdeMinPromocao": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:16.0165419",
+      "impostos": []
+    },
+    {
+      "id": "78ce14ed-0526-4fc8-bce3-079b00bc3ca5",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "287",
+      "descricao": "Tela Zenfone 3 5.2 Ze520kl | Roxo",
+      "url": "tela-zenfone-3-5.2-ze520kl-roxo",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 165.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Zenfone 3 5.2 ZE520KL\n\nCARACTERÍSTICAS:\nTamanho: 5.2 polegadas\nDisplay: \nCores: Preto e Branco\n\nCOMPATIBILIDADE:\nZenfone 3 5.2 ZE520KL\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0287",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "554d0d74-b17c-47cd-b815-fe7119f4a35e",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "1ca0979e-3746-4a71-87c3-337ae0b096f4",
+        "nome": "Asus",
+        "ativo": true,
+        "codigoExterno": "56",
+        "url": "asus"
+      },
+      "modelo": {
+        "id": "d5b20866-9d84-40a2-a747-2aa5c3f80f98",
+        "nome": "Zenfone 3 5.2 Ze520kl",
+        "ativo": true,
+        "codigoExterno": "270"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:16.2888622",
+      "impostos": []
+    },
+    {
+      "id": "7e28700b-60f5-4d73-b404-07d8b1082591",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "260",
+      "descricao": "Tela Samsung Galaxy J1 2016 Incell | Cinza",
+      "url": "tela-samsung-galaxy-j1-2016-incell-cinza",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 115.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Galaxy J1 2016\n\nCARACTERÍSTICAS:\nTamanho: 4.5 polegadas\nDisplay: Incell\nCores: Preto, Branco e Dourado\n\nCOMPATIBILIDADE:\nGalaxy J1 2016\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0260",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "b1288f33-5058-460e-9a1a-499bf23300fc",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "c3592a56-554a-44d6-ad4c-06d44c6e1c5f",
+        "nome": "Samsung",
+        "ativo": true,
+        "codigoExterno": "3",
+        "url": "samsung",
+        "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Marcas-c3592a56-554a-44d6-ad4c-06d44c6e1c5f-Samsung.jpg"
+      },
+      "modelo": {
+        "id": "a4f4d2f9-c432-4fb3-9769-406f7c9c93f4",
+        "nome": "Galaxy J1 2016",
+        "ativo": true,
+        "codigoExterno": "61"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:15.3693593",
+      "impostos": []
+    },
+    {
+      "id": "865ab95e-6f58-43fe-a224-0880fb8455b4",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "8017",
+      "descricao": "Variacao | Branco",
+      "url": "variacao-branco",
+      "estoqueTotal": 14.000,
+      "precoUnitario": 16.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "66666",
+      "statusCadastro": 2,
+      "tipoProduto": 0,
+      "produtoPaiId": "15f5018b-fb91-4570-be14-38f04dede888",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [
+        {
+          "id": "013109d0-0a14-4407-bff9-9a4b624b8295",
+          "nome": "CAAA",
+          "padrao": true,
+          "produtoId": "865ab95e-6f58-43fe-a224-0880fb8455b4",
+          "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Produtos-013109d0-0a14-4407-bff9-9a4b624b8295-CAAA.jpg"
+        }
+      ],
+      "imagemPadrao": {
+        "id": "013109d0-0a14-4407-bff9-9a4b624b8295",
+        "nome": "CAAA",
+        "padrao": true,
+        "produtoId": "865ab95e-6f58-43fe-a224-0880fb8455b4",
+        "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Produtos-013109d0-0a14-4407-bff9-9a4b624b8295-CAAA.jpg"
+      },
+      "embalagens": [],
+      "categoria": {
+        "id": "d1be025f-ddaf-44c5-810f-2001591fe291",
+        "nome": "Acessorios",
+        "emDestaque": true,
+        "ordem": 1,
+        "ativo": true,
+        "codigoExterno": "7",
+        "url": "acessorios",
+        "alias": "Acessorios"
+      },
+      "marca": {
+        "id": "c1d2a868-dded-4073-a751-69fad5a24fd7",
+        "nome": "Apple",
+        "ativo": true,
+        "codigoExterno": "1",
+        "url": "apple"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-30T12:48:50.3719404",
+      "impostos": []
+    },
+    {
+      "id": "1f2a27ec-a1f6-4f61-b493-08835a1b3e37",
+      "ativo": false,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "299",
+      "descricao": "Tela Moto G6 | Cinza",
+      "url": "Tela-Moto-G6-Cinza",
+      "estoqueTotal": 0,
+      "precoUnitario": 145.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Moto G6\n\nCARACTERÍSTICAS:\nTamanho: 5.7 polegadas\nDisplay: IPS LCD\nCores: Preto e Dourado\n\nCOMPATIBILIDADE:\nMoto G6\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0299",
+      "statusCadastro": 1,
+      "tipoProduto": 1,
+      "produtoPaiId": "9d367c6d-6925-436f-a33c-f9d36979a731",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "f2b79591-9e62-4ee9-89fb-d6aa472aaf1c",
+        "nome": "Motorola",
+        "ativo": true,
+        "codigoExterno": "5",
+        "url": "motorola"
+      },
+      "modelo": {
+        "id": "eeb0f649-9eee-4b91-9bbb-6670a23df865",
+        "nome": "Moto G6",
+        "ativo": true,
+        "codigoExterno": "83"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:17.1627977",
+      "impostos": []
+    },
+    {
+      "id": "b05c4282-701f-4c01-91a8-08996371b3dc",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "298",
+      "descricao": "Tampa Traseira Iphone 4s | Azul Forte",
+      "url": "tampa-traseira-iphone-4s-azul-forte",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 10.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"TESTE\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "02980298",
+      "codigoExterno": "",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "1beef139-134d-44e7-8b10-0615a86e64d2",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [
+        {
+          "id": "4cc21511-5931-4b09-b1b8-49fe8e576795",
+          "descricao": "teste",
+          "quantidade": 0.010,
+          "desconto": 0.010,
+          "produtoId": "b05c4282-701f-4c01-91a8-08996371b3dc"
+        },
+        {
+          "id": "0575abf7-ee60-49f7-b674-ced623c0f071",
+          "descricao": "CATEGORIA",
+          "quantidade": 0.010,
+          "desconto": 0.010,
+          "produtoId": "b05c4282-701f-4c01-91a8-08996371b3dc"
+        }
+      ],
+      "categoria": {
+        "id": "b91b051a-f930-40fe-9176-bfabf617329e",
+        "nome": "Tampa Traseira",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "80",
+        "url": "pecas/tampa-traseira",
+        "alias": "Peças | TAMPA TRASEIRA"
+      },
+      "marca": {
+        "id": "c1d2a868-dded-4073-a751-69fad5a24fd7",
+        "nome": "Apple",
+        "ativo": true,
+        "codigoExterno": "1",
+        "url": "apple"
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 1.000,
+      "qtdeMinPromocao": 0.000,
+      "dataInicialPromocao": "2022-11-25T19:16:00",
+      "dataFinalPromocao": "2022-12-01T22:16:00",
+      "dataCadastroExterno": "2022-06-29T18:10:17.0193689",
+      "impostos": []
+    },
+    {
+      "id": "7b8f806d-2f36-42e9-ae08-08fc669bd192",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "244",
+      "descricao": "Bateria Lg Bl-45f1f Original - K4 2017 / K8 2017 / K9",
+      "url": "bateria-lg-bl-45f1f-original---k4-2017-k8-2017-k9",
+      "estoqueTotal": 1.000,
+      "precoUnitario": 50.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Minhas infos do produto\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "gtinEan": "0244123123",
+      "codigoExterno": "244",
+      "statusCadastro": 2,
+      "tipoProduto": 0,
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [
+        {
+          "id": "fc17e0ae-4993-4fe3-a0d5-e869eba29015",
+          "nome": "imagem",
+          "padrao": false,
+          "produtoId": "7b8f806d-2f36-42e9-ae08-08fc669bd192",
+          "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Produtos-fc17e0ae-4993-4fe3-a0d5-e869eba29015-imagem.jpg"
+        }
+      ],
+      "imagemPadrao": {},
+      "embalagens": [
+        {
+          "id": "381feeaf-2fe6-46be-8e35-acf13d0c1c08",
+          "descricao": "teste",
+          "quantidade": 0.010,
+          "desconto": 0.000,
+          "produtoId": "7b8f806d-2f36-42e9-ae08-08fc669bd192"
+        }
+      ],
+      "categoria": {
+        "id": "a50ebd1c-f591-4870-bb56-7ed197fdd60f",
+        "nome": "Bateria",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "72",
+        "url": "pecas/bateria",
+        "alias": "Peças | BATERIA"
+      },
+      "marca": {
+        "id": "69442bc5-b8ef-4bb3-a7a2-5eac35046938",
+        "nome": "Lg",
+        "ativo": true,
+        "codigoExterno": "4",
+        "url": "lg"
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "qtdeMinPromocao": 0.000,
+      "dataCadastroExterno": "2019-02-03T02:00:00",
+      "impostos": []
+    },
+    {
+      "id": "97562e07-f77d-49f8-9a8c-0917fe006191",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "294",
+      "descricao": "Tela Xiaomi Redmi 6x / Mi A2 Original China Sem Aro | Amarelo",
+      "url": "tela-xiaomi-redmi-6x-/-mi-a2-original-china-sem-aro-amarelo",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 210.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Redmi 6X / Mi A2\n\nCARACTERÍSTICAS:\nTamanho: 5.99 polegadas\nDisplay: LTPS IPS LCD\nCores: Preto \n\nCOMPATIBILIDADE:\nRedmi 6X / Mi A2\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0294",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "d48d05c4-cb6c-4d1e-a8ec-708b3d1d74aa",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "843827ae-a257-475e-adb1-6b308d0cb56b",
+        "nome": "Xiaomi",
+        "ativo": true,
+        "codigoExterno": "2",
+        "url": "xiaomi"
+      },
+      "modelo": {
+        "id": "e8239cc6-2c68-4da4-97a2-e3abebcb8265",
+        "nome": "Xiaomi Mi A2",
+        "ativo": true,
+        "codigoExterno": "123"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:16.5110623",
+      "impostos": []
+    },
+    {
+      "id": "7447021f-15dd-4790-86e8-09ff05c151d6",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "260",
+      "descricao": "Tela Samsung Galaxy J1 2016 Incell | Marrom",
+      "url": "tela-samsung-galaxy-j1-2016-incell-marrom",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 115.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Galaxy J1 2016\n\nCARACTERÍSTICAS:\nTamanho: 4.5 polegadas\nDisplay: Incell\nCores: Preto, Branco e Dourado\n\nCOMPATIBILIDADE:\nGalaxy J1 2016\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0260",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "b1288f33-5058-460e-9a1a-499bf23300fc",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "c3592a56-554a-44d6-ad4c-06d44c6e1c5f",
+        "nome": "Samsung",
+        "ativo": true,
+        "codigoExterno": "3",
+        "url": "samsung",
+        "urlImagem": "https://archiveserver.blob.core.windows.net/meuerponline-cliente/Marcas-c3592a56-554a-44d6-ad4c-06d44c6e1c5f-Samsung.jpg"
+      },
+      "modelo": {
+        "id": "a4f4d2f9-c432-4fb3-9769-406f7c9c93f4",
+        "nome": "Galaxy J1 2016",
+        "ativo": true,
+        "codigoExterno": "61"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:15.3694915",
+      "impostos": []
+    },
+    {
+      "id": "333be397-3481-4efa-88e8-0a984a46ab87",
+      "ativo": true,
+      "promocaoVigente": false,
+      "produtoVariacao": false,
+      "sku": "300",
+      "descricao": "Tela Moto G6 Play / Moto E5 Incell | Vermelho",
+      "url": "tela-moto-g6-play-/-moto-e5-incell-vermelho",
+      "estoqueTotal": 0.000,
+      "precoUnitario": 140.000,
+      "informacoesProduto": "{\"blocks\":[{\"key\":\"fnj78\",\"text\":\"Tela completa touch e display Moto G6 Play\n\nCARACTERÍSTICAS:\nTamanho: 5.7 polegadas\nDisplay: IPS LCD\nCores: Preto e Dourado\n\nCOMPATIBILIDADE:\nMoto G6 Play\n\nFUNCIONALIDADE:\nRestabelece a imagem e o toque do smartphone\n\nQUALIDADE:\nTodos os nossos produtos passam por um controle de qualidade, os mesmos são testados e validados antes de ir para a venda.\n\nGARANTIA:\nNossos produtos possuem garantia de 3 mêses após o recebibento do produto, contra qualquer defeito de fabricação.\n\n\n\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "video": "",
+      "gtinEan": "0300",
+      "statusCadastro": 1,
+      "tipoProduto": 0,
+      "produtoPaiId": "fee5238e-5cc7-415d-9bc9-3b2325a934bc",
+      "especificacoes": [],
+      "variacoesFilhos": [],
+      "variacoes": [],
+      "imagens": [],
+      "imagemPadrao": {},
+      "embalagens": [],
+      "categoria": {
+        "id": "098bc7b1-e5df-4186-8a4d-bf85cea3c2ef",
+        "nome": "Tela Completa",
+        "emDestaque": false,
+        "ordem": 0,
+        "ativo": true,
+        "codigoExterno": "9",
+        "url": "pecas/tela-completa",
+        "alias": "Peças | TELA COMPLETA"
+      },
+      "marca": {
+        "id": "f2b79591-9e62-4ee9-89fb-d6aa472aaf1c",
+        "nome": "Motorola",
+        "ativo": true,
+        "codigoExterno": "5",
+        "url": "motorola"
+      },
+      "modelo": {
+        "id": "0941f16f-31e2-43a4-a2ff-eb54a6b3b477",
+        "nome": "Moto G6 Play",
+        "ativo": true,
+        "codigoExterno": "85"
+      },
+      "perfilFiscal": {
+        "id": "c98a1e60-0041-4be4-8bac-865bfebbe5d6",
+        "codigoExterno": "4",
+        "descricao": "COMISSAO DE BOLA JOAO",
+        "regime": 0,
+        "coi": 0,
+        "coiDescricao": "Descricao 1",
+        "situacao": 0,
+        "detalhes": []
+      },
+      "unidadeMedida": {
+        "id": "eeaa9ab3-64ae-463c-85e3-3b79b4142b43",
+        "descricao": "Unidade",
+        "prefixo": "UN",
+        "codigoExterno": "1"
+      },
+      "precoPromocional": 0.000,
+      "dataCadastroExterno": "2022-06-29T18:10:17.3123766",
+      "impostos": []
+    }
+  ]
+}
