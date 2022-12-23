@@ -9,14 +9,14 @@ background-color: #0f4c65;
 color: white;
 padding: 1rem 2rem;
 
+
 span{
     font-weight: 600;
 }
-
 div{
-    display: flex;
-    align-items: center;
-    gap: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
 }
 
 

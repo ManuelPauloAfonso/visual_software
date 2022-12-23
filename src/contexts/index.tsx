@@ -1,7 +1,7 @@
 import { Children, createContext, useState } from "react";
 import api from "../service/api";
 import { ApplicationToken, CompanyToken } from "../service/config";
-import { ProductsProps, ProductsPropsState, PropsChildren } from "../types/types";
+import { Product, ProductsProps, ProductsPropsState, PropsChildren } from "../types/types";
 
 
 
@@ -9,7 +9,7 @@ import { ProductsProps, ProductsPropsState, PropsChildren } from "../types/types
 const ProductsContext = createContext<ProductsPropsState>({} as ProductsPropsState)
 
 const ProductsContextProvider = ({ children }: PropsChildren) => {
-  const [products, setProducts] = useState({} as ProductsProps)
+  const [products, setProducts] = useState([] as Product[])
 
   async function getProducts() {
     try {
