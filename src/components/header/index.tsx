@@ -9,7 +9,7 @@ export default function Header() {
     <Container>
       <div>
         <AiOutlineMenu fontSize={20} />
-        <span>MeuerpOnline</span>
+        <span>MeuerpOnlined</span>
       </div>
       <div>
         <RxAvatar fontSize={20} />
