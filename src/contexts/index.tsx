@@ -15,7 +15,7 @@ const ProductsContextProvider = ({ children }: PropsChildren) => {
     try {
       const res = await api.get('produtos/', {
         headers: {
-          'Authorization': `${CompanyToken}, ${ApplicationToken}`,
+          'Authorization': `${CompanyToken}`,
 
         }
       });
